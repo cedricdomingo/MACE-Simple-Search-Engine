@@ -1,5 +1,5 @@
 # MACE-Simple-Search-Engine
-[**M**]ade by [**A**]llen [**Ce**]dric Domingo
+<html><ins>[M]</ins>ade by <ins>[A]</ins>llen <ins>[CE]</ins>dric Domingo</html>
 
 ## Project Description
 A simple search engine built using Python 3.11 that indexes files saved in a local folder, and searches for relevant results within the files given a search query. This search engine implements TF-IDF weighting, page ranking, and cosine vector similarity, and utilizes NLTK libraries for tokenization and stemming. The files used for this example are taken from the Usenet 20 newsgroups dataset, which comprises of around 18,000 newsgroups posts on 20 topics. For faster indexing times for the purpose of demonstration, the dataset has been reduced to 10,000 files, however, the search engine is indexing hundreds of thousands of files. 
