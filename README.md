@@ -1,8 +1,12 @@
 # MACE-Simple-Search-Engine
-A simple search engine built using Python 3.11 that indexes files saved in a local folder, and searches for relevant results within the files given a search query. This search engine implements TF-IDF weighting, page ranking, and cosine vector similarity, and utilizes NLTK libraries for tokenization and stemming. The files used for this example are taken from the Usenet 20 newsgroups dataset, which comprises of around 18,000 newsgroups posts on 20 topics. For fasting indexing times for the purpose of demonstration, the dataset has been reduced to 10,000 files, however, the search engine is indexing hundreds of thousands of files. [**M**]ade by [**A**]llen [**Ce**]dric Domingo. 
+[**M**]ade by [**A**]llen [**Ce**]dric Domingo
 
 ## Project Description
-The search engine searches for a query in a list of documents (files in a folder) and assigns each matching document with a TF-IDF weighted ranking. The search engine uses the Python library NTLK (Natural Language Toolkit) to implement a tokenizer and word stemmer, which improves the accuracy of the search results. The final project uses TF-IDF ranking, indexing, and cosine similarity to provide relevant and accurate search results.
+A simple search engine built using Python 3.11 that indexes files saved in a local folder, and searches for relevant results within the files given a search query. This search engine implements TF-IDF weighting, page ranking, and cosine vector similarity, and utilizes NLTK libraries for tokenization and stemming. The files used for this example are taken from the Usenet 20 newsgroups dataset, which comprises of around 18,000 newsgroups posts on 20 topics. For fasting indexing times for the purpose of demonstration, the dataset has been reduced to 10,000 files, however, the search engine is indexing hundreds of thousands of files. 
+
+The search engine searches for a query in a list of documents (files in a folder) and assigns each matching document with a TF-IDF weighted ranking. The search engine uses the Python library NTLK (Natural Language Toolkit) to implement a tokenizer and word stemmer, which improves the accuracy of the search results. The final project uses TF-IDF ranking, indexing, and cosine similarity to provide relevant and accurate search results. 
+
+
 
 ![C__Windows_System32_cmd exe 2022-12-08 20-30-15 (1)](https://user-images.githubusercontent.com/81552207/206625917-9fb63303-746f-447a-a451-ca52f748b649.gif)
 
