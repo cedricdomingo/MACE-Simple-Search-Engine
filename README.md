@@ -52,7 +52,7 @@ To use our search engine, follow these steps:
   2. Navigate to the local folder where the search engine files are stored
   3. Unzip the "Files.zip" folder into the same folder where search engine files are stored, OR, 
      Add files to the "Files" folder in the same folder where search engine files are stored, remove file extension, and re-name files in numerical order
-  4. Type the following command to run the search engine: "python MACE Simple Search Engine.py"
+  4. Type the following command to run the search engine: `python "MACE Simple Search Engine.py"`
   5. Enter your search query in the prompt once the search engine has completed indexing
   6. The search engine will display the matching documents and their corresponding TF-IDF weighted ranking
 
