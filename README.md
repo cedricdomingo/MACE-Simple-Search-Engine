@@ -15,7 +15,7 @@
  ██████████████████████████████████████████████████████████
 
 <ins>M</ins>ᴀᴅᴇ ʙʏ <ins>A</ins>ʟʟᴇɴ <ins>CE</ins>ᴅʀɪᴄ ᴅᴏᴍɪɴɢᴏ
-https://github.com/cedricdomingo
+<b>https://github.com/cedricdomingo</b>
 Created using Python 3.11 & NLTK
 </p></pre>
 
