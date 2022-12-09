@@ -33,14 +33,14 @@ The purpose of this project is to showcase the skills and abilities gained from 
 To use our search engine, you will need to have the following installed on your computer:
 
 * [Python 3.x](https://www.python.org/downloads/)
-* [NTLK (Natural Language Toolkit)](https://www.nltk.org/install.html)
+* [NLTK (Natural Language Toolkit)](https://www.nltk.org/install.html)
 Once you have installed Python and NTLK, you can download the search engine project files from GitHub and place them in a local folder on your computer. The files must be named numerically and cannot have a file extension. The files must be placed in a local folder called "files" in order for the search engine to be able to access them.
 
 ## Development setup
 To develop and modify the search engine, you will need to have the following installed on your computer:
 
 * Python 3.x
-* NTLK (Natural Language Toolkit)
+* NLTK (Natural Language Toolkit)
 * Any Python text editor or IDE of your choice (e.g. [Python IDLE](https://docs.python.org/3/library/idle.html))
 
 Once you have installed the necessary software, you can download the search engine project files from GitHub and open them in your text editor or IDE. You can then modify the code and test your changes using the terminal command prompt.
