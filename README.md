@@ -16,7 +16,7 @@
 
 <ins>M</ins>ᴀᴅᴇ ʙʏ <ins>A</ins>ʟʟᴇɴ <ins>CE</ins>ᴅʀɪᴄ ᴅᴏᴍɪɴɢᴏ
 https://github.com/cedricdomingo
-Created using Python 8.11 & NLTK
+Created using Python 3.11 & NLTK
 </p></pre>
 
 ## Project Description
