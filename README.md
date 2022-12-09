@@ -42,9 +42,11 @@ To use our search engine, follow these steps:
 
   1. Open the terminal command prompt on your computer
   2. Navigate to the local folder where the search engine files are stored
-  3. Type the following command to run the search engine: "MACE Simple Search Engine.py"
-  4. Enter your search query in the prompt
-  5. The search engine will display the matching documents and their corresponding TF-IDF weighted ranking
+  3. Unzip the "Files.zip" folder into the same folder where search engine files are stored, OR, 
+     Add files to the "Files" folder in the same folder where search engine files are stored, remove file extension, and re-name files in numerical order
+  4. Type the following command to run the search engine: "MACE Simple Search Engine.py"
+  5. Enter your search query in the prompt
+  6. The search engine will display the matching documents and their corresponding TF-IDF weighted ranking
 
 ## Future Development
 In future versions of our search engine, we plan to address some of the limitations of the current system. These include:
